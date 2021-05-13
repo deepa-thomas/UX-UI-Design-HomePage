@@ -11,8 +11,7 @@
 ## As a recruiter, I want: 
 
 - **About** section, then I can understand your background and current situation.
-- **Education** section, so that I can see your education. 
-- **Experience** section, so that I can understand your previous experience and know you are suitable for the job. 
+- **Resume** section, so that I can see your education, your previous experience and know you are suitable for the job. 
 - **Contact Me** section, so that I can easily contact and communicate, providing your emailId also. 
 
 # Should Have
