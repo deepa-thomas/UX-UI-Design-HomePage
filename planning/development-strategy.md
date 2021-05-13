@@ -11,7 +11,6 @@
     - [ ] text color black
     - [ ] text color changes to red on selection
 - Right part
-
   - [ ] Profile Picture - img
   - [ ] Name and small description
 
