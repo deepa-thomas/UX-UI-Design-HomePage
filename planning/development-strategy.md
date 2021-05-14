@@ -18,11 +18,13 @@
 ### `type: css` (Home)
 
 - Navigation bar
+
   - [ ] Background color : DDFBF0
   - [ ] text color black
   - [ ] text color changes to red on selection
   - [ ] Background color BFFBFB on selection
 - Name and Description
+
   - [ ] Background color : BFFBFB
   - [ ] Color Black
   - [ ] Font
