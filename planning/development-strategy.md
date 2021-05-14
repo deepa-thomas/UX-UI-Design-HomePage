@@ -126,4 +126,4 @@
   - [ ] Background color : BFFBFB
   - [ ] Title-Bold with text color black
   - [ ] Links- semi bold, color:F81C36, underlined
-  - [ ] Center Aligned
+  - [ ] Center aligned
